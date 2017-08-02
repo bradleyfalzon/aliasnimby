@@ -1,3 +1,8 @@
+# Introduction
+
+`aliasnimby` checks a package for [alias declarations](https://tip.golang.org/ref/spec#Alias_declarations), and if it
+finds one, returns a non zero exit status - just like everyone else does when aliases are discussed. It's not an
+overreaction at all.
 
 # Usage
 
